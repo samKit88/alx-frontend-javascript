@@ -1,5 +1,5 @@
 # alx-frontend-javascript
-This Alx frontend specialization
+This is Alx frontend specialization
 project
 
 Samuel Giram
